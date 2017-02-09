@@ -1,0 +1,21 @@
+.products {
+
+	h2 {
+		width:50%;
+		margin: 0 auto 50px auto;
+		text-align:center;
+		font-size:22px;
+		font-family: 'PT Sans', sans-serif;
+		text-transform: uppercase;
+		display:flex;
+		align-items:center;
+		justify-content:space-around;
+		color:$dark-grey;
+	}
+
+	.line {
+		height:1px;
+		width:155px;
+		background-color:$border;
+	}
+}
