@@ -1,3 +1,5 @@
+$small-break:1000px;
+
 @import "Assets/reset";
 @import "Assets/color";
 @import "Partials/header";
@@ -6,10 +8,16 @@
 @import "Partials/products";
 @import "Partials/newsletter";
 @import "Partials/footer";
+@import "Partials/contact";
+@import "Partials/product-details";
 
 
 body {
 	font-family:arial, sans-serif;
+}
+
+h1 {
+	font-family: 'PT Sans', sans-serif;
 }
 
 h2 {
@@ -17,11 +25,23 @@ h2 {
 	font-size:22px;
 }
 
+h3, h4 {
+	font-family: 'PT Sans', sans-serif;
+}
+
 a {
 	text-decoration:none;
 
 	&:hover {
 		text-decoration:none;
+	}
+}
+
+.container {
+	padding:0;
+
+	@media screen and (max-width:$small-break) {
+		padding: 0 15px;
 	}
 }
 

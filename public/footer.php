@@ -1,3 +1,15 @@
+<div class="newsletter">
+	<div class="container">
+		<div class="inner">
+			<h2>Sign up for exclusive sales and product news</h2>
+			<form action="">
+				<input type="text" placeholder="LOREM@IPSUM.COM">
+				<input type="submit" value="SIGN UP">
+			</form>
+		</div>
+	</div>
+</div>
+
 <footer>
 	<div class="container">
 		<div class="col-xs-12 col-md-4">
@@ -76,6 +88,7 @@
 </footer>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<!--<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"</script>-->
+<script src="js/slippry.min.js"></script>
+<script src="js/main.js"></script>
 </body>
 </html>

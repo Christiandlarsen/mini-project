@@ -1,5 +1,15 @@
 .products {
 
+	.line {
+		height:1px;
+		width:155px;
+		background-color:$border;
+	}
+
+	.row {
+		margin-bottom:50px;
+	}
+
 	h2 {
 		width:50%;
 		margin: 0 auto 50px auto;
@@ -13,9 +23,95 @@
 		color:$dark-grey;
 	}
 
-	.line {
-		height:1px;
-		width:155px;
-		background-color:$border;
+	h3, h4 {
+		text-transform: uppercase;
+		margin-bottom:5px;
+		color:$dark-grey;
+	}
+
+	h3 {
+		margin-top:10px;
+		font-size:18px;
+	}
+
+	h4 {
+		font-size:14px;
+	}
+
+	p {
+		font-size:12px;
+		color:$main-text;
+	}
+
+	.price {
+		font-size:14px;
+		color:$red;
+	}
+
+	.fa {
+		font-size:14px;
+		color:$red;
+	}
+
+	button {
+		text-transform:uppercase;
+		background-color:$red;
+		color:$white;
+		border:0;
+		width:100%;
+		padding: 10px 0;
+		font-size:14px;
+	}
+
+	.product {
+		padding: 5px 15px 0 15px;
+
+		.inner {
+			border: 1px solid $border;
+
+			.product-top {
+				border-bottom:1px solid $border;
+
+				p {
+					padding: 5px 10px;
+					max-width:100%;
+				}
+
+				img {
+					padding: 5px 10px;
+					max-width:100%;
+				}
+			}
+
+			.product-content {
+				padding: 5px 20px;
+			}
+
+			.product-text {
+				border-bottom:1px solid $border;
+				padding-bottom:10px;
+				line-height:18px;
+			}
+
+			.product-price {
+				display:flex;
+				align-items:center;
+				justify-content: space-between;
+				padding: 10px 0;
+			}
+
+			.icons {
+
+				p {
+					display:inline-block;
+					padding-left:3px;
+				}
+
+				i {
+					font-size:16px;
+					color:$main-text;
+				}
+			}
+		}
 	}
 }

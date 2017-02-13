@@ -1,0 +1,41 @@
+.product-details {
+	margin-top:27px;
+	margin-bottom:100px;
+	color:$main-text;
+
+	.img-box {
+		margin:0 auto;
+		text-align:center;
+		margin-bottom:20px;
+		border:1px solid $top-bar-border;
+	}
+
+	.gallery {
+		
+		display:flex;
+		justify-content:space-between;
+
+		.img-box {
+			margin:0;
+			display:flex;
+			flex-basis:30%;
+			align-items:center;
+			justify-content:center;
+			height:175px;
+
+			img {
+				max-width:145px;
+			}
+			
+			/*
+			&:first-of-type {
+				margin-right:20px;
+			}
+
+			&:last-of-type {
+				margin-left:20px;
+			}
+			*/
+		}
+	}
+}
