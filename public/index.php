@@ -2,13 +2,29 @@
 <section class="slider">
 	<ul id="slippry-demo">
 		<li>
-			<a href="#slide1"><img src="img/slider-img-1.jpg" alt="Welcome to Slippry!"></a>
+			<a href="#slide1">
+				<img src="img/slider-img-1.jpg" alt="<h1>Right is Pink.</h1><h1>Left is Blue</h1><p>Inspired by Brasil’s bold colors and matching up to football’s on-pitch playmakers, these kicks are ready to stand out.</p><button>Shop Brasil</button>">
+			</a>
 		</li>
 		<li>
-			<a href="#slide2"><img src="img/slider-img-1.jpg"  alt="This is an awesome jQuery slider plugin."></a>
+			<a href="#slide2">
+				<img src="img/slider-img-1.jpg" alt="<h1>Right is Pink.</h1><h1>Left is Blue</h1><p>Inspired by Brasil’s bold colors and matching up to football’s on-pitch playmakers, these kicks are ready to stand out.</p><button>Shop Brasil</button>">
+			</a>
 		</li>
 		<li>
-			<a href="#slide3"><img src="img/slider-img-1.jpg" alt="Check it out, you are going to <span class='red'>♥</span> it :)"></a>
+			<a href="#slide3">
+				<img src="img/slider-img-1.jpg" alt="<h1>Right is Pink.</h1><h1>Left is Blue</h1><p>Inspired by Brasil’s bold colors and matching up to football’s on-pitch playmakers, these kicks are ready to stand out.</p><button>Shop Brasil</button>">
+			</a>
+		</li>
+		<li>
+			<a href="#slide4">
+				<img src="img/slider-img-1.jpg" alt="<h1>Right is Pink.</h1><h1>Left is Blue</h1><p>Inspired by Brasil’s bold colors and matching up to football’s on-pitch playmakers, these kicks are ready to stand out.</p><button>Shop Brasil</button>">
+			</a>
+		</li>
+		<li>
+			<a href="#slide5">
+				<img src="img/slider-img-1.jpg" alt="<h1>Right is Pink.</h1><h1>Left is Blue</h1><p>Inspired by Brasil’s bold colors and matching up to football’s on-pitch playmakers, these kicks are ready to stand out.</p><button>Shop Brasil</button>">
+			</a>
 		</li>
 	</ul>
 </section>
@@ -54,8 +70,10 @@ vivamus congue nulla leo, quis imperdiet magna.</p>
 						<p><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></p>
 					<a href="product-details.php">
 						<img src="img/shoe.jpg" alt="Image of a shoe product">
+					</a>
 					</div>
 					<div class="product-content">
+					<a href="product-details.php">
 						<h3>Gel-Fujitrabuco 5 G-TX</h3>
 						<h4>Running shoe</h4>
 						<p class="product-text">God og robust terrænløbesko med GORE-TEX-membran. Overdel i let mesh og sål med affjedring både i hæl og forfod....</p>
@@ -77,8 +95,10 @@ vivamus congue nulla leo, quis imperdiet magna.</p>
 						<p><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></p>
 					<a href="product-details.php">
 						<img src="img/shoe.jpg" alt="Image of a shoe product">
+					</a>
 					</div>
 					<div class="product-content">
+					<a href="product-details.php">
 						<h3>Gel-Fujitrabuco 5 G-TX</h3>
 						<h4>Running shoe</h4>
 						<p class="product-text">God og robust terrænløbesko med GORE-TEX-membran. Overdel i let mesh og sål med affjedring både i hæl og forfod....</p>
@@ -99,8 +119,10 @@ vivamus congue nulla leo, quis imperdiet magna.</p>
 						<p><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></p>
 					<a href="product-details.php">
 						<img src="img/shoe.jpg" alt="Image of a shoe product">
+					</a>
 					</div>
 					<div class="product-content">
+					<a href="product-details.php">
 						<h3>Gel-Fujitrabuco 5 G-TX</h3>
 						<h4>Running shoe</h4>
 						<p class="product-text">God og robust terrænløbesko med GORE-TEX-membran. Overdel i let mesh og sål med affjedring både i hæl og forfod....</p>
@@ -121,8 +143,10 @@ vivamus congue nulla leo, quis imperdiet magna.</p>
 						<p><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></p>
 					<a href="product-details.php">
 						<img src="img/shoe.jpg" alt="Image of a shoe product">
+					</a>
 					</div>
 					<div class="product-content">
+					<a href="product-details.php">
 						<h3>Gel-Fujitrabuco 5 G-TX</h3>
 						<h4>Running shoe</h4>
 						<p class="product-text">God og robust terrænløbesko med GORE-TEX-membran. Overdel i let mesh og sål med affjedring både i hæl og forfod....</p>
@@ -146,8 +170,10 @@ vivamus congue nulla leo, quis imperdiet magna.</p>
 						<p><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></p>
 					<a href="product-details.php">
 						<img src="img/shoe.jpg" alt="Image of a shoe product">
+					</a>
 					</div>
 					<div class="product-content">
+					<a href="product-details.php">
 						<h3>Gel-Fujitrabuco 5 G-TX</h3>
 						<h4>Running shoe</h4>
 						<p class="product-text">God og robust terrænløbesko med GORE-TEX-membran. Overdel i let mesh og sål med affjedring både i hæl og forfod....</p>
@@ -169,8 +195,10 @@ vivamus congue nulla leo, quis imperdiet magna.</p>
 						<p><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></p>
 					<a href="product-details.php">
 						<img src="img/shoe.jpg" alt="Image of a shoe product">
+					</a>
 					</div>
 					<div class="product-content">
+					<a href="product-details.php">
 						<h3>Gel-Fujitrabuco 5 G-TX</h3>
 						<h4>Running shoe</h4>
 						<p class="product-text">God og robust terrænløbesko med GORE-TEX-membran. Overdel i let mesh og sål med affjedring både i hæl og forfod....</p>
@@ -185,14 +213,17 @@ vivamus congue nulla leo, quis imperdiet magna.</p>
 					</div>
 					<button>Buy now</button>
 				</div>
-			</div><div class="col-xs-12 col-md-3 product">
+			</div>
+			<div class="col-xs-12 col-md-3 product">
 				<div class="inner">
 					<div class="product-top">
 						<p><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></p>
 					<a href="product-details.php">
 						<img src="img/shoe.jpg" alt="Image of a shoe product">
+					</a>
 					</div>
 					<div class="product-content">
+					<a href="product-details.php">
 						<h3>Gel-Fujitrabuco 5 G-TX</h3>
 						<h4>Running shoe</h4>
 						<p class="product-text">God og robust terrænløbesko med GORE-TEX-membran. Overdel i let mesh og sål med affjedring både i hæl og forfod....</p>
@@ -207,14 +238,17 @@ vivamus congue nulla leo, quis imperdiet magna.</p>
 					</div>
 					<button>Buy now</button>
 				</div>
-			</div><div class="col-xs-12 col-md-3 product">
+			</div>
+			<div class="col-xs-12 col-md-3 product">
 				<div class="inner">
 					<div class="product-top">
 						<p><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i><i class="fa fa-star" aria-hidden="true"></i></p>
 					<a href="product-details.php">
 						<img src="img/shoe.jpg" alt="Image of a shoe product">
+					</a>
 					</div>
 					<div class="product-content">
+					<a href="product-details.php">
 						<h3>Gel-Fujitrabuco 5 G-TX</h3>
 						<h4>Running shoe</h4>
 						<p class="product-text">God og robust terrænløbesko med GORE-TEX-membran. Overdel i let mesh og sål med affjedring både i hæl og forfod....</p>

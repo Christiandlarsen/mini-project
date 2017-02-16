@@ -30,29 +30,29 @@
 			</div>
 		</div>
 	</div>
-		<div class="main-nav">
-			<div class="container">
-				<nav>
-					<ul>
-						<li class="dropdown"><a href="index.php">HOME</a>
-							<ul>
-								<li><a href="#">lorem</a></li>
-								<li><a href="#">dorem sia</a></li>
-								<li><a href="#">erik</a></li>
-								<li><a href="#">ipsum padam</a></li>
-								<li><a href="#">behance</a></li>
-							</ul>
-						</li>
-						<li><a href="#">MEN</a></li>
-						<li><a href="#">WOMEN</a></li>
-						<li><a href="#">KIDS</a></li>
-						<li><a href="#">SALE</a></li>
-						<li><a href="#">ABOUT US</a></li>
-						<li><a href="contact.php">SUPPORT</a></li>
-						<li><i class="fa fa-search" aria-hidden="true"></i><input type="text" placeholder="Search..."></li>
-					</ul>
-				</nav>
-			</div>
+	<div id="main-nav">
+		<div class="container">
+			<nav>
+				<ul>
+					<li class="dropdown"><a href="index.php">HOME</a>
+						<ul>
+							<li><a href="#">lorem</a></li>
+							<li><a href="#">dorem sia</a></li>
+							<li><a href="#">erik</a></li>
+							<li><a href="#">ipsum padam</a></li>
+							<li><a href="#">behance</a></li>
+						</ul>
+					</li>
+					<li><a href="#">MEN</a></li>
+					<li><a href="#">WOMEN</a></li>
+					<li><a href="#">KIDS</a></li>
+					<li><a href="#">SALE</a></li>
+					<li><a href="#">ABOUT US</a></li>
+					<li><a href="contact.php">SUPPORT</a></li>
+					<li><i class="fa fa-search" aria-hidden="true"></i><input type="text" placeholder="Search..."></li>
+				</ul>
+			</nav>
 		</div>
-		<div class="nav-border"></div>
+	</div>
+	<div class="nav-border"></div>
 </header>

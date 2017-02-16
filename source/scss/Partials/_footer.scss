@@ -7,15 +7,11 @@ footer {
 	
 	a {
 		color: $main-text;
-		transition: all 100ms ease-in-out;
+		transition:all 100ms ease-in-out;
 
 		&:hover {
 			color:$red;
 			text-decoration: none;
-
-			h3 {
-				color:$red;
-			}
 		}
 	}
 
@@ -33,14 +29,14 @@ footer {
 
 			h3 {
 				color:$white;
-				transition: all 100ms ease-in-out;
+				transition:all 100ms ease-in-out;
 			}
 		}
 	}
 
 	.fa {
 		color:$white;
-		transition: all 100ms ease-in-out;
+		transition:all 100ms ease-in-out;
 		font-size:20px;
 
 		&:hover {
@@ -58,8 +54,13 @@ footer {
 	}
 
 	.blog {
+
 		li {
 			margin-top:20px;
+		}
+
+		@media screen and (max-width:$small-break) {
+			margin-bottom:25px;
 		}
 	}
 

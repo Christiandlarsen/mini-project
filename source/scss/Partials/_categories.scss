@@ -4,10 +4,21 @@
 	display:flex;
 	align-items:center;
 	
+	@media screen and (max-width:$small-break) {
+		margin:50px 0;
+		height:auto;
+		flex-direction:column;
+		text-align:center;
+	}
+
 	p {
 		color:$main-text;
 		font-family:arial, sans-serif;
 		font-size:14px;
+
+		@media screen and (max-width:$small-break) {
+			margin-bottom:25px;
+		}
 	}
 
 	h2 {
@@ -16,6 +27,11 @@
 		font-size:22px;
 		text-transform:uppercase;
 		margin:25px 0;
+
+		@media screen and (max-width:$small-break) {
+			margin-top:10px;
+			margin-bottom:15px;
+		}
 	}
 
 	a {
